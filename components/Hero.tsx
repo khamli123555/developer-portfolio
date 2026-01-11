@@ -85,14 +85,7 @@ export default function Hero() {
                 >
                     <GlassCard className="p-8 border-primary/20 bg-black/60 relative z-10">
                         <div className="flex items-center gap-6 mb-8">
-                            <div className="relative w-24 h-24 rounded-full border-2 border-primary/50 p-1">
-                                <Image
-                                    src="/test.png"
-                                    alt="Oussama"
-                                    width={96}
-                                    height={96}
-                                    className="rounded-full object-cover w-full h-full"
-                                />
+                            
                                 <div className="absolute bottom-0 right-0 w-6 h-6 bg-primary rounded-full border-4 border-black" />
                             </div>
                             <div>
@@ -100,7 +93,7 @@ export default function Hero() {
                                 <p className="text-gray-400 text-sm font-mono">ID: DEV-2026-OK</p>
                                 <p className="text-primary text-xs font-mono mt-1">LOC: MOROCCO</p>
                             </div>
-                        </div>
+
 
                         {/* Stats Grid */}
                         <div className="grid grid-cols-2 gap-4">
