@@ -20,7 +20,7 @@ export default function Footer() {
                     <a href="https://www.linkedin.com/in/oussama-el-khamlichi-25943a332/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-secondary transition-colors">
                         <Linkedin size={20} />
                     </a>
-                    <a href="mailto:contact@khamlichi.dev" className="text-gray-400 hover:text-white transition-colors">
+                    <a href="khamlichioussama4@gmail.com" className="text-gray-400 hover:text-white transition-colors">
                         <Mail size={20} />
                     </a>
                 </div>
