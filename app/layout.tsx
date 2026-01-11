@@ -10,8 +10,8 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Oussama  EL Khamlichi | Full-Stack Developer",
-  description: "Portfolio of Oussama Khamlichi - Full-Stack Developer specializing in Modern Web Technologies.",
+  title: "Oussama EL Khamlichi | Full-Stack Developer",
+  description: "Portfolio of Oussama EL Khamlichi - Full-Stack Developer specializing in Modern Web Technologies.",
 };
 
 import { ThemeProvider } from "@/context/ThemeContext";
