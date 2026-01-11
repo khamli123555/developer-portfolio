@@ -54,7 +54,8 @@ export default function Hero() {
             {t.hero.tagline}
           </p>
 
-          <div className="flex flex-wrap gap-4 justify-center lg:justify-start">
+          <div className="flex flex-wrap gap-4 justify-center lg:justify-start relative z-50">
+
             <a
               href="#contact"
               className="group px-8 py-3 bg-primary text-black font-bold rounded-full flex items-center gap-2 hover:bg-white transition-all hover:shadow-[0_0_20px_rgba(0,255,156,0.6)]"
