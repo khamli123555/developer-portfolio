@@ -75,7 +75,7 @@ export default function Contact() {
                     id="name"
                     required
                     className="bg-black/40 border border-white/10 rounded-lg p-3 text-white focus:outline-none focus:border-primary/50 transition-colors"
-                    placeholder="Hamza mechaal"
+                    placeholder="your name"
                   />
                 </div>
 
@@ -90,7 +90,7 @@ export default function Contact() {
                     id="email"
                     required
                     className="bg-black/40 border border-white/10 rounded-lg p-3 text-white focus:outline-none focus:border-primary/50 transition-colors"
-                    placeholder="hamza@example.com"
+                    placeholder="name@example.com"
                   />
                 </div>
               </div>
