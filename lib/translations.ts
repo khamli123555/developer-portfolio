@@ -48,19 +48,28 @@ export const translations = {
                     name: 'JavaScript Essentials 2',
                     issuer: 'Cisco Networking Academy',
                     year: '2024',
-                    link: '#'
+                    link: '#',
+                    image: '/placeholder-cert.png',
+                    verifyLink: '#',
+                    downloadLink: '#'
                 },
                 {
                     name: 'Python Essentials 1',
                     issuer: 'Cisco Networking Academy',
                     year: '2024',
-                    link: '#'
+                    link: '#',
+                    image: '/placeholder-cert.png',
+                    verifyLink: '#',
+                    downloadLink: '#'
                 },
                 {
                     name: 'Introduction to Networks',
                     issuer: 'Cisco Networking Academy',
                     year: '2024',
-                    link: '#'
+                    link: '#',
+                    image: '/placeholder-cert.png',
+                    verifyLink: '#',
+                    downloadLink: '#'
                 },
             ],
         },
@@ -145,19 +154,28 @@ export const translations = {
                     name: 'JavaScript Essentials 2',
                     issuer: 'Cisco Networking Academy',
                     year: '2024',
-                    link: '#'
+                    link: '#',
+                    image: '/placeholder-cert.png',
+                    verifyLink: '#',
+                    downloadLink: '#'
                 },
                 {
                     name: 'Python Essentials 1',
                     issuer: 'Cisco Networking Academy',
                     year: '2024',
-                    link: '#'
+                    link: '#',
+                    image: '/placeholder-cert.png',
+                    verifyLink: '#',
+                    downloadLink: '#'
                 },
                 {
                     name: 'Introduction to Networks',
                     issuer: 'Cisco Networking Academy',
                     year: '2024',
-                    link: '#'
+                    link: '#',
+                    image: '/placeholder-cert.png',
+                    verifyLink: '#',
+                    downloadLink: '#'
                 },
             ],
         },
@@ -242,19 +260,28 @@ export const translations = {
                     name: 'JavaScript Essentials 2',
                     issuer: 'Cisco Networking Academy',
                     year: '2024',
-                    link: '#'
+                    link: '#',
+                    image: '/placeholder-cert.png',
+                    verifyLink: '#',
+                    downloadLink: '#'
                 },
                 {
                     name: 'Python Essentials 1',
                     issuer: 'Cisco Networking Academy',
                     year: '2024',
-                    link: '#'
+                    link: '#',
+                    image: '/placeholder-cert.png',
+                    verifyLink: '#',
+                    downloadLink: '#'
                 },
                 {
                     name: 'Introduction to Networks',
                     issuer: 'Cisco Networking Academy',
                     year: '2024',
-                    link: '#'
+                    link: '#',
+                    image: '/placeholder-cert.png',
+                    verifyLink: '#',
+                    downloadLink: '#'
                 },
             ],
         },
