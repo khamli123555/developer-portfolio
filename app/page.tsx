@@ -6,9 +6,9 @@ import Projects from "@/components/Projects";
 import Contact from "@/components/Contact";
 import Terminal from "@/components/Terminal";
 import Timeline from "@/components/Timeline";
+import Certifications from "@/components/Certifications";
 import AIAssistant from "@/components/AIAssistant";
 import { useLanguage } from "@/context/LanguageContext";
-import { motion } from "framer-motion";
 
 export default function Home() {
   const { t } = useLanguage();
@@ -33,6 +33,8 @@ export default function Home() {
           <Timeline />
         </div>
       </section>
+
+      <Certifications />
 
       <Projects />
       <Contact />

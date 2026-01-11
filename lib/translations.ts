@@ -44,9 +44,24 @@ export const translations = {
         certifications: {
             title: 'Certifications',
             items: [
-                'JavaScript Essentials 2 – Cisco Networking Academy',
-                'Python Essentials 1',
-                'Introduction to Networks – Cisco',
+                {
+                    name: 'JavaScript Essentials 2',
+                    issuer: 'Cisco Networking Academy',
+                    year: '2024',
+                    link: '#'
+                },
+                {
+                    name: 'Python Essentials 1',
+                    issuer: 'Cisco Networking Academy',
+                    year: '2024',
+                    link: '#'
+                },
+                {
+                    name: 'Introduction to Networks',
+                    issuer: 'Cisco Networking Academy',
+                    year: '2024',
+                    link: '#'
+                },
             ],
         },
         skills: {
@@ -126,9 +141,24 @@ export const translations = {
         certifications: {
             title: 'Certifications',
             items: [
-                'JavaScript Essentials 2 – Cisco Networking Academy',
-                'Python Essentials 1',
-                'Introduction to Networks – Cisco',
+                {
+                    name: 'JavaScript Essentials 2',
+                    issuer: 'Cisco Networking Academy',
+                    year: '2024',
+                    link: '#'
+                },
+                {
+                    name: 'Python Essentials 1',
+                    issuer: 'Cisco Networking Academy',
+                    year: '2024',
+                    link: '#'
+                },
+                {
+                    name: 'Introduction to Networks',
+                    issuer: 'Cisco Networking Academy',
+                    year: '2024',
+                    link: '#'
+                },
             ],
         },
         skills: {
@@ -208,9 +238,24 @@ export const translations = {
         certifications: {
             title: 'Zertifizierungen',
             items: [
-                'JavaScript Essentials 2 – Cisco Networking Academy',
-                'Python Essentials 1',
-                'Introduction to Networks – Cisco',
+                {
+                    name: 'JavaScript Essentials 2',
+                    issuer: 'Cisco Networking Academy',
+                    year: '2024',
+                    link: '#'
+                },
+                {
+                    name: 'Python Essentials 1',
+                    issuer: 'Cisco Networking Academy',
+                    year: '2024',
+                    link: '#'
+                },
+                {
+                    name: 'Introduction to Networks',
+                    issuer: 'Cisco Networking Academy',
+                    year: '2024',
+                    link: '#'
+                },
             ],
         },
         skills: {
