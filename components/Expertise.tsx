@@ -18,12 +18,12 @@ export default function Expertise() {
         {
             icon: <Terminal className="text-secondary" size={32} />,
             title: t.skills.backend,
-            items: ["PHP, Python", "Node.js (Basic)", "REST APIs"],
+            items: ["PHP, Python", "Node.js (Basic)",],
         },
         {
             icon: <Database className="text-purple-400" size={32} />,
             title: t.skills.database,
-            items: ["MySQL", "MongoDB", "PostgreSQL"],
+            items: ["MySQL", "MongoDB"],
         },
         {
             icon: <Code2 className="text-pink-400" size={32} />,
